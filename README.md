@@ -22,7 +22,7 @@ A Python-based arcade-style game where players control a ship to defend Earth fr
    ```
 2. Install the required dependencies:
    ```bash
-   pip install pygame
+   python3 -m pip install pygame
    ```
 
 ## How to Play
