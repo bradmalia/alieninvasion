@@ -2,6 +2,8 @@
 
 A Python-based arcade-style game where players control a ship to defend Earth from an incoming fleet of aliens. This project is inspired by the classic Space Invaders and developed using the `pygame` library.
 
+<img width="1196" height="835" alt="image" src="https://github.com/user-attachments/assets/89895d3b-e6d7-49e7-93e5-8563177ba417" />
+
 ## Features
 - Dynamic ship movement and shooting.
 - Multiple alien fleet levels with increasing speed.
@@ -39,3 +41,4 @@ python3 alien_invasion.py
 - `game_stats.py`: Logic for tracking player statistics.
 - `images/`: Game graphical assets.
 - `sounds/`: Game audio assets.
+![Uploading image.png…]()
